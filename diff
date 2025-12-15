@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Demo</title>
+<style>
+body{background:black;color:lime;font-family:monospace;text-align:center;padding-top:35vh;}
+small{opacity:.6;}
+</style>
+</head>
+<body>
+<h1>⚠️ NOTICE</h1>
+<p>You have been hacked.</p>
+<p><small>This is a fictional demo.</small></p>
+</body>
+</html>
